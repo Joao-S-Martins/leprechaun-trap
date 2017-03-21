@@ -1,3 +1,5 @@
+[Project website](https://joao-s-martins.github.io/leprechaun-trap/ "Leprechaun Trap website")
+
 # Leprechaun Trap
 This is the result of a kindergarten family project that was assigned to my oldest son.
 
