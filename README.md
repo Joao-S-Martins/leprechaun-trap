@@ -40,6 +40,10 @@ Most wiring was solid 22 gauge. I cut a few servo extension cables to be used wi
 Individual LEDs had their 200Ohm resistors soldered to them along with some lengths of wire. The LEDs were installed in the small holes in the base of the trap and wires cut to reach the patch panel. Some of my resistors turned out to be too fragile, even though I added shrink tubing to help reinforce them. Once everything was in place, including the Arduino Uno within the cauldron, I nervously tested the whole trap. It all worked! I immediately started applying hot-glue everywhere: LEDs, patch panels, Arduino pins, and some soldered connections just for good measure. Then I tested several more times, smiling successfully.
 
 ## The Result
+<video width="480" height="270" controls>
+  <source src="img/trap_demo_480x270_web.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 The trap was a hit. The final result was a real attention getter. The blinking lights highlighted the many reflective bits that my son wanted to include. The rainbow made a fantastic background. Watching my son drop small toys into the hole and reset the trap to drop more toys was hugely rewarding.
 
 ## Lessons Learned
